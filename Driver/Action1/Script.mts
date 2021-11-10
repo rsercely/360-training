@@ -8,7 +8,7 @@ WpfWindow("Micro Focus MyFlight Sample").Dialog("Login Failed").WinButton("OK").
 wait 2 ' seems a bit more reliable with this here
 WpfWindow("Micro Focus MyFlight Sample").WpfEdit("agentName").Set "" @@ hightlight id_;_1906537456_;_script infofile_;_ZIP::ssf8.xml_;_
 
-foo = 1 ' to make it easy to set a breakpoint if desired
+foo = 1 ' to make it easy to set a breakpoint if desired 
 
 
 
