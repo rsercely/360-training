@@ -1,5 +1,4 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+#UFT ignore section
+*.lck
+/Res*
+#end UFT ignore section
