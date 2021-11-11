@@ -1,0 +1,7 @@
+﻿function myFunc(msg)
+	msgbox "MyFunc called with the value:" & msg
+	myFunc = 3.14159
+	foo = 1 ' to make it easy to set a breakpoint if desired	
+end function
+
+

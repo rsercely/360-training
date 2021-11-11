@@ -1,4 +1,5 @@
-﻿msgbox "Action: " &Environment.Value("ActionName") &" From directory"& Environment.Value ("TestDir")
+﻿myfunc "hello world"
+msgbox "Action: " &Environment.Value("ActionName") &" From directory"& Environment.Value ("TestDir")
 
 
 WpfWindow("Micro Focus MyFlight Sample").WpfEdit("agentName").Set "bill" @@ hightlight id_;_1906537456_;_script infofile_;_ZIP::ssf1.xml_;_
